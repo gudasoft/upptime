@@ -24,7 +24,7 @@ sites:
   - name: Belassitsa
     url: http://belassitsa.com/
   - name: Pancharevo-bg.com
-    url: https://www.pancharevo-bg.com/robots.txt
+    url: https://www.pancharevo-bg.com/
 
 
 assignees: # Users to assign downtime issues (optional)
