@@ -25,6 +25,8 @@ sites:
     url: http://belassitsa.com/
   - name: Pancharevo-bg.com
     url: https://www.pancharevo-bg.com/
+  - name: Qredy
+    url: https://new.qredy.com/
 
 
 assignees: # Users to assign downtime issues (optional)
