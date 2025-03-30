@@ -185,18 +185,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pancharevo-bg.com.ico",
     "slug": "pancharevo-bg-com",
     "status": "up",
-    "uptime": "2.30%",
-    "uptimeDay": "2.30%",
-    "uptimeWeek": "2.30%",
-    "uptimeMonth": "2.30%",
-    "uptimeYear": "2.30%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 518,
     "timeDay": 518,
     "timeWeek": 518,
     "timeMonth": 518,
     "timeYear": 518,
-    "dailyMinutesDown": {
-      "2025-03-30": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
