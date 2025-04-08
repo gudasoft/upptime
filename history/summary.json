@@ -22,54 +22,60 @@
     "url": "https://www.gudasoft.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gudasoft.com.ico",
     "slug": "gudasoft-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 518,
     "timeDay": 595,
     "timeWeek": 551,
     "timeMonth": 518,
     "timeYear": 518,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-08": 4
+    }
   },
   {
     "name": "Gudasoft Blog",
     "url": "https://blog.gudasoft.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.gudasoft.com.ico",
     "slug": "gudasoft-blog",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 970,
     "timeDay": 1142,
     "timeWeek": 1038,
     "timeMonth": 970,
     "timeYear": 970,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-08": 3
+    }
   },
   {
     "name": "Data Listener",
     "url": "https://data-listener.gudasoft.com/",
     "icon": "https://icons.duckduckgo.com/ip3/data-listener.gudasoft.com.ico",
     "slug": "data-listener",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 485,
     "timeDay": 553,
     "timeWeek": 527,
     "timeMonth": 485,
     "timeYear": 485,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-08": 3
+    }
   },
   {
     "name": "Wannapik",
@@ -112,81 +118,89 @@
     "url": "https://www.kvartala.bg/",
     "icon": "https://icons.duckduckgo.com/ip3/www.kvartala.bg.ico",
     "slug": "kvartala",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 6993,
     "timeDay": 7107,
     "timeWeek": 7106,
     "timeMonth": 6993,
     "timeYear": 6993,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-08": 2
+    }
   },
   {
     "name": "Advokatalexiev",
     "url": "https://advokatalexiev.com/",
     "icon": "https://icons.duckduckgo.com/ip3/advokatalexiev.com.ico",
     "slug": "advokatalexiev",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 627,
     "timeDay": 730,
     "timeWeek": 684,
     "timeMonth": 627,
     "timeYear": 627,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-08": 2
+    }
   },
   {
     "name": "Tkhold",
     "url": "http://tkhold.com",
     "icon": "https://icons.duckduckgo.com/ip3/tkhold.com.ico",
     "slug": "tkhold",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1445,
     "timeDay": 1623,
     "timeWeek": 1498,
     "timeMonth": 1445,
     "timeYear": 1445,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-08": 1
+    }
   },
   {
     "name": "Advokatalexiev",
     "url": "https://advokatalexiev.com/",
     "icon": "https://icons.duckduckgo.com/ip3/advokatalexiev.com.ico",
     "slug": "advokatalexiev",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 627,
     "timeDay": 730,
     "timeWeek": 684,
     "timeMonth": 627,
     "timeYear": 627,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-08": 2
+    }
   },
   {
     "name": "Belassitsa",
     "url": "http://belassitsa.com/",
     "icon": "https://icons.duckduckgo.com/ip3/belassitsa.com.ico",
     "slug": "belassitsa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -195,7 +209,9 @@
     "timeWeek": 1484,
     "timeMonth": 1362,
     "timeYear": 1362,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-08": 0
+    }
   },
   {
     "name": "Pancharevo-bg.com",
