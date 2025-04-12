@@ -220,17 +220,19 @@
     "url": "https://new.qredy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/new.qredy.com.ico",
     "slug": "qredy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 106,
-    "timeWeek": 166,
-    "timeMonth": 197,
-    "timeYear": 197,
-    "dailyMinutesDown": {}
+    "time": 213,
+    "timeDay": 294,
+    "timeWeek": 205,
+    "timeMonth": 213,
+    "timeYear": 213,
+    "dailyMinutesDown": {
+      "2025-04-12": 0
+    }
   }
 ]
