@@ -22,19 +22,19 @@
     "url": "https://www.gudasoft.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gudasoft.com.ico",
     "slug": "gudasoft-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 515,
-    "timeDay": 623,
-    "timeWeek": 523,
-    "timeMonth": 510,
-    "timeYear": 515,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "82.16%",
+    "uptimeWeek": "97.45%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.60%",
+    "time": 517,
+    "timeDay": 632,
+    "timeWeek": 537,
+    "timeMonth": 515,
+    "timeYear": 517,
     "dailyMinutesDown": {
-      "2025-05-14": 1
+      "2025-05-14": 257
     }
   },
   {
