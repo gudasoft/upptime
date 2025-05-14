@@ -22,18 +22,20 @@
     "url": "https://www.gudasoft.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gudasoft.com.ico",
     "slug": "gudasoft-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 513,
-    "timeDay": 640,
-    "timeWeek": 511,
-    "timeMonth": 507,
-    "timeYear": 513,
-    "dailyMinutesDown": {}
+    "time": 515,
+    "timeDay": 623,
+    "timeWeek": 523,
+    "timeMonth": 510,
+    "timeYear": 515,
+    "dailyMinutesDown": {
+      "2025-05-14": 1
+    }
   },
   {
     "name": "Gudasoft Blog",
