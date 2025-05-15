@@ -22,18 +22,19 @@
     "url": "https://www.gudasoft.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gudasoft.com.ico",
     "slug": "gudasoft-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "82.16%",
+    "uptimeDay": "85.62%",
     "uptimeWeek": "97.45%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.61%",
     "time": 517,
-    "timeDay": 589,
+    "timeDay": 580,
     "timeWeek": 537,
     "timeMonth": 514,
     "timeYear": 517,
     "dailyMinutesDown": {
+      "2025-05-15": 0,
       "2025-05-14": 257
     }
   },
@@ -42,9 +43,9 @@
     "url": "https://blog.gudasoft.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.gudasoft.com.ico",
     "slug": "gudasoft-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,16 +54,18 @@
     "timeWeek": 966,
     "timeMonth": 931,
     "timeYear": 943,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-15": 0
+    }
   },
   {
     "name": "Data Listener",
     "url": "https://data-listener.gudasoft.com/",
     "icon": "https://icons.duckduckgo.com/ip3/data-listener.gudasoft.com.ico",
     "slug": "data-listener",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +74,9 @@
     "timeWeek": 504,
     "timeMonth": 478,
     "timeYear": 484,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-15": 0
+    }
   },
   {
     "name": "Wannapik",
