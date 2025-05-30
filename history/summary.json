@@ -86,19 +86,19 @@
     "url": "https://www.wannapik.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.wannapik.com.ico",
     "slug": "wannapik",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 727,
-    "timeDay": 694,
-    "timeWeek": 2166,
-    "timeMonth": 945,
-    "timeYear": 727,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 905,
+    "timeDay": 6750,
+    "timeWeek": 3496,
+    "timeMonth": 1327,
+    "timeYear": 905,
     "dailyMinutesDown": {
-      "2025-05-30": 0
+      "2025-05-30": 24
     }
   },
   {
