@@ -86,9 +86,9 @@
     "url": "https://www.wannapik.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.wannapik.com.ico",
     "slug": "wannapik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
@@ -98,6 +98,7 @@
     "timeMonth": 1817,
     "timeYear": 1118,
     "dailyMinutesDown": {
+      "2025-06-05": 0,
       "2025-06-03": 18,
       "2025-05-30": 24
     }
