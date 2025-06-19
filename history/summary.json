@@ -4,29 +4,31 @@
     "url": "https://www.cenite.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cenite.com.ico",
     "slug": "cenite-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 539,
-    "timeDay": 484,
-    "timeWeek": 543,
-    "timeMonth": 539,
-    "timeYear": 539,
-    "dailyMinutesDown": {}
+    "time": 757,
+    "timeDay": 10114,
+    "timeWeek": 2943,
+    "timeMonth": 1139,
+    "timeYear": 757,
+    "dailyMinutesDown": {
+      "2025-06-19": 5
+    }
   },
   {
     "name": "Gudasoft.com",
     "url": "https://www.gudasoft.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gudasoft.com.ico",
     "slug": "gudasoft-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.36%",
     "time": 519,
     "timeDay": 467,
@@ -34,6 +36,7 @@
     "timeMonth": 521,
     "timeYear": 519,
     "dailyMinutesDown": {
+      "2025-06-19": 5,
       "2025-05-16": 877,
       "2025-05-15": 761,
       "2025-05-14": 257
@@ -44,18 +47,19 @@
     "url": "https://blog.gudasoft.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.gudasoft.com.ico",
     "slug": "gudasoft-blog",
-    "status": "up",
-    "uptime": "98.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.59%",
+    "status": "down",
+    "uptime": "98.58%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "98.58%",
     "time": 954,
     "timeDay": 797,
     "timeWeek": 982,
     "timeMonth": 966,
     "timeYear": 954,
     "dailyMinutesDown": {
+      "2025-06-19": 4,
       "2025-05-16": 877,
       "2025-05-15": 761
     }
@@ -65,18 +69,19 @@
     "url": "https://data-listener.gudasoft.com/",
     "icon": "https://icons.duckduckgo.com/ip3/data-listener.gudasoft.com.ico",
     "slug": "data-listener",
-    "status": "up",
-    "uptime": "98.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.59%",
+    "status": "down",
+    "uptime": "98.58%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "98.58%",
     "time": 487,
     "timeDay": 417,
     "timeWeek": 466,
     "timeMonth": 488,
     "timeYear": 487,
     "dailyMinutesDown": {
+      "2025-06-19": 4,
       "2025-05-16": 877,
       "2025-05-15": 761
     }
@@ -108,46 +113,50 @@
     "url": "https://club50plus.bg/",
     "icon": "https://icons.duckduckgo.com/ip3/club50plus.bg.ico",
     "slug": "club50plus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1315,
-    "timeDay": 1040,
-    "timeWeek": 1342,
-    "timeMonth": 1322,
-    "timeYear": 1315,
-    "dailyMinutesDown": {}
+    "time": 1519,
+    "timeDay": 10331,
+    "timeWeek": 3627,
+    "timeMonth": 1894,
+    "timeYear": 1519,
+    "dailyMinutesDown": {
+      "2025-06-19": 3
+    }
   },
   {
     "name": "Kvartala",
     "url": "https://www.kvartala.bg/",
     "icon": "https://icons.duckduckgo.com/ip3/www.kvartala.bg.ico",
     "slug": "kvartala",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 7145,
     "timeDay": 7225,
     "timeWeek": 7833,
     "timeMonth": 7338,
     "timeYear": 7145,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-19": 2
+    }
   },
   {
     "name": "Advokatalexiev",
     "url": "https://advokatalexiev.com/",
     "icon": "https://icons.duckduckgo.com/ip3/advokatalexiev.com.ico",
     "slug": "advokatalexiev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 646,
@@ -155,17 +164,19 @@
     "timeWeek": 614,
     "timeMonth": 621,
     "timeYear": 646,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-19": 2
+    }
   },
   {
     "name": "Tkhold",
     "url": "http://tkhold.com",
     "icon": "https://icons.duckduckgo.com/ip3/tkhold.com.ico",
     "slug": "tkhold",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1442,
@@ -173,17 +184,19 @@
     "timeWeek": 1384,
     "timeMonth": 1432,
     "timeYear": 1442,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-19": 1
+    }
   },
   {
     "name": "Advokatalexiev",
     "url": "https://advokatalexiev.com/",
     "icon": "https://icons.duckduckgo.com/ip3/advokatalexiev.com.ico",
     "slug": "advokatalexiev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 646,
@@ -191,16 +204,18 @@
     "timeWeek": 614,
     "timeMonth": 621,
     "timeYear": 646,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-19": 2
+    }
   },
   {
     "name": "Belassitsa",
     "url": "http://belassitsa.com/",
     "icon": "https://icons.duckduckgo.com/ip3/belassitsa.com.ico",
     "slug": "belassitsa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -209,7 +224,9 @@
     "timeWeek": 1351,
     "timeMonth": 1330,
     "timeYear": 1332,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-19": 0
+    }
   },
   {
     "name": "Pancharevo-bg.com",
