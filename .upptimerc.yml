@@ -11,8 +11,10 @@ sites:
     url: https://blog.gudasoft.com/
   - name: Data Listener
     url: https://data-listener.gudasoft.com/
-  - name: Wannapik
-    url: https://www.wannapik.com/
+  - name: Podcast Gudasoft
+    url: https://podcast.gudasoft.com/    
+  # - name: Wannapik
+  #   url: https://www.wannapik.com/
   # - name: Club50plus
   #   url: https://club50plus.bg/
   - name: Kvartala
