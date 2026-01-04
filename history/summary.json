@@ -117,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/podcast.gudasoft.com.ico",
     "slug": "podcast-gudasoft",
     "status": "down",
-    "uptime": "3.31%",
-    "uptimeDay": "3.31%",
-    "uptimeWeek": "3.31%",
-    "uptimeMonth": "3.31%",
-    "uptimeYear": "3.31%",
+    "uptime": "0.83%",
+    "uptimeDay": "0.83%",
+    "uptimeWeek": "0.83%",
+    "uptimeMonth": "0.83%",
+    "uptimeYear": "0.83%",
     "time": 384,
     "timeDay": 384,
     "timeWeek": 384,
     "timeMonth": 384,
     "timeYear": 384,
     "dailyMinutesDown": {
-      "2026-01-04": 0
+      "2026-01-04": 1
     }
   },
   {
