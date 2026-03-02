@@ -7,6 +7,7 @@ sites:
     url: https://www.cenite.com
   - name: Gudasoft.com
     url: https://www.gudasoft.com/
+    type: globalping
   - name: Gudasoft Blog
     url: https://blog.gudasoft.com/
   - name: Data Listener
