@@ -52,7 +52,7 @@ status-website:
     - title: Gudasoft
       href: https://www.gudasoft.com
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 # Upptime also supports notifications, assigning issues, and more
