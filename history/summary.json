@@ -156,7 +156,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "45.15%",
+    "uptimeYear": "45.16%",
     "time": 3471,
     "timeDay": 54,
     "timeWeek": 89,
@@ -419,16 +419,16 @@
     "url": "https://www.pancharevo-bg.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pancharevo-bg.com.ico",
     "slug": "pancharevo-bg-com",
-    "status": "down",
+    "status": "up",
     "uptime": "91.90%",
-    "uptimeDay": "73.68%",
-    "uptimeWeek": "86.40%",
-    "uptimeMonth": "96.87%",
-    "uptimeYear": "88.90%",
+    "uptimeDay": "71.81%",
+    "uptimeWeek": "86.13%",
+    "uptimeMonth": "96.81%",
+    "uptimeYear": "88.89%",
     "time": 666,
-    "timeDay": 485,
-    "timeWeek": 507,
-    "timeMonth": 594,
+    "timeDay": 487,
+    "timeWeek": 508,
+    "timeMonth": 593,
     "timeYear": 696,
     "dailyMinutesDown": {
       "2025-08-26": 80,
@@ -481,7 +481,7 @@
       "2026-08-11": 67,
       "2026-08-13": 267,
       "2026-08-14": 544,
-      "2026-08-15": 263
+      "2026-08-15": 290
     }
   },
   {
