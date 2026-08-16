@@ -152,7 +152,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.wannapik.com.ico",
     "slug": "wannapik",
     "status": "down",
-    "uptime": "45.02%",
+    "uptime": "45.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -419,17 +419,17 @@
     "url": "https://www.pancharevo-bg.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pancharevo-bg.com.ico",
     "slug": "pancharevo-bg-com",
-    "status": "down",
+    "status": "up",
     "uptime": "91.89%",
-    "uptimeDay": "73.95%",
-    "uptimeWeek": "84.87%",
-    "uptimeMonth": "96.52%",
-    "uptimeYear": "88.87%",
+    "uptimeDay": "72.15%",
+    "uptimeWeek": "84.61%",
+    "uptimeMonth": "96.46%",
+    "uptimeYear": "88.86%",
     "time": 662,
-    "timeDay": 457,
-    "timeWeek": 480,
+    "timeDay": 460,
+    "timeWeek": 481,
     "timeMonth": 571,
-    "timeYear": 691,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2025-08-26": 80,
       "2025-09-15": 975,
@@ -482,7 +482,7 @@
       "2026-08-13": 267,
       "2026-08-14": 544,
       "2026-08-15": 332,
-      "2026-08-16": 87
+      "2026-08-16": 112
     }
   },
   {
