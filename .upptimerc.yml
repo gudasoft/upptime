@@ -30,9 +30,10 @@ sites:
     url: http://belassitsa.com/
   - name: Pancharevo-bg.com
     url: https://www.pancharevo-bg.com/
-  - name: Qredy
-    url: https://new.qredy.com/
-
+  - name: Host Manager
+    url: https://host-manager.gudasoft.com/
+  - name: Krasimira Dukovska
+    url: https://krasimira.dukovska.kvartala.bg
 
 assignees: # Users to assign downtime issues (optional)
   - gudata
