@@ -1,7 +1,5 @@
 # [📈 Live Status](https://gudasoft.github.io/upptime): <!--live status--> **🟧 Partial outage**
 
-This repository contains the uptime monitor and status page for [Gudasoft](https://www.gudasoft.com/).
-
 [![Uptime CI](https://github.com/gudasoft/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/gudasoft/upptime/actions/workflows/uptime.yml)
 [![Response Time CI](https://github.com/gudasoft/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/gudasoft/upptime/actions/workflows/response-time.yml)
 [![Graphs CI](https://github.com/gudasoft/upptime/workflows/Graphs%20CI/badge.svg)](https://github.com/gudasoft/upptime/actions/workflows/graphs.yml)
