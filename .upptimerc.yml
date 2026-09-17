@@ -32,8 +32,10 @@ sites:
     url: https://www.pancharevo-bg.com/
   - name: Host Manager
     url: https://host-manager.gudasoft.com/
-  - name: Krasimira Dukovska
+  - name: Coaching zone
     url: https://krasimira.dukovska.kvartala.bg
+  - name: Coaching zone - Krasimira Dukovska
+    url: https://coaching-zone.kvartala.bg/
   - name: Vertical Design
     url: https://www.verticalsdesign.bg/
   - name: Arcadia
