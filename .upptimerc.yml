@@ -23,7 +23,7 @@ sites:
   - name: Advokatalexiev
     url: https://advokatalexiev.com/
   - name: Tkhold
-    url: http://tkhold.com
+    url: http://www.tkhold.com/
   - name: Advokatalexiev
     url: https://advokatalexiev.com/
   - name: Belassitsa
@@ -34,6 +34,19 @@ sites:
     url: https://host-manager.gudasoft.com/
   - name: Krasimira Dukovska
     url: https://krasimira.dukovska.kvartala.bg
+  - name: Vertical Design
+    url: https://www.verticalsdesign.bg/
+  - name: Arcadia
+    url: http://www.arcadiabg.eu/
+  - name: Dentist 
+    url: http://dentist.gudasoft.com/
+  - name: DGD
+    url: http://dgd.gudasoft.com/    
+  - name: imambebe
+    url: http://imambebe.com
+  - name: rezovo
+    url: http://rezovo.net/
+  
 
 assignees: # Users to assign downtime issues (optional)
   - gudata
