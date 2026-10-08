@@ -6,7 +6,7 @@
     "slug": "cenite-com",
     "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "91.20%",
+    "uptimeDay": "91.15%",
     "uptimeWeek": "98.74%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.22%",
@@ -34,7 +34,7 @@
     "slug": "gudasoft-com",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "91.27%",
+    "uptimeDay": "91.22%",
     "uptimeWeek": "98.75%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.77%",
@@ -68,7 +68,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.gudasoft.com.ico",
     "slug": "gudasoft-blog",
     "status": "down",
-    "uptime": "95.52%",
+    "uptime": "95.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "31.48%",
@@ -119,8 +119,8 @@
     "slug": "data-listener",
     "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "91.94%",
-    "uptimeWeek": "98.85%",
+    "uptimeDay": "91.89%",
+    "uptimeWeek": "98.84%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.25%",
     "time": 559,
@@ -136,7 +136,7 @@
       "2026-08-14": 745,
       "2026-08-13": 1440,
       "2026-08-12": 1171,
-      "2026-10-08": 116
+      "2026-10-08": 117
     }
   },
   {
@@ -146,8 +146,8 @@
     "slug": "podcast-gudasoft",
     "status": "down",
     "uptime": "98.14%",
-    "uptimeDay": "92.28%",
-    "uptimeWeek": "98.90%",
+    "uptimeDay": "92.22%",
+    "uptimeWeek": "98.89%",
     "uptimeMonth": "95.05%",
     "uptimeYear": "98.14%",
     "time": 951,
@@ -169,7 +169,7 @@
       "2026-08-25": 26,
       "2026-09-17": 1214,
       "2026-09-16": 841,
-      "2026-10-08": 111
+      "2026-10-08": 112
     }
   },
   {
@@ -306,8 +306,8 @@
     "slug": "kvartala",
     "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "92.41%",
-    "uptimeWeek": "98.92%",
+    "uptimeDay": "92.36%",
+    "uptimeWeek": "98.91%",
     "uptimeMonth": "94.89%",
     "uptimeYear": "98.83%",
     "time": 7567,
@@ -326,7 +326,7 @@
       "2026-08-12": 1170,
       "2026-09-17": 1290,
       "2026-09-16": 841,
-      "2026-10-08": 109
+      "2026-10-08": 110
     }
   },
   {
@@ -336,7 +336,7 @@
     "slug": "advokatalexiev",
     "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "92.54%",
+    "uptimeDay": "92.49%",
     "uptimeWeek": "98.93%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.26%",
@@ -353,7 +353,7 @@
       "2026-08-13": 1440,
       "2026-08-12": 1170,
       "2026-09-17": 89,
-      "2026-10-08": 107
+      "2026-10-08": 108
     }
   },
   {
@@ -363,9 +363,9 @@
     "slug": "tkhold",
     "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "92.87%",
+    "uptimeDay": "92.83%",
     "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.77%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.20%",
     "time": 1478,
     "timeDay": 789,
@@ -393,8 +393,8 @@
     "slug": "belassitsa",
     "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "93.21%",
-    "uptimeWeek": "99.03%",
+    "uptimeDay": "93.16%",
+    "uptimeWeek": "99.02%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.27%",
     "time": 1598,
@@ -420,7 +420,7 @@
     "slug": "pancharevo-bg-com",
     "status": "down",
     "uptime": "92.64%",
-    "uptimeDay": "93.29%",
+    "uptimeDay": "93.25%",
     "uptimeWeek": "99.04%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "93.80%",
@@ -472,8 +472,8 @@
     "slug": "host-manager",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "93.63%",
-    "uptimeWeek": "99.09%",
+    "uptimeDay": "93.58%",
+    "uptimeWeek": "99.08%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.87%",
     "time": 609,
@@ -491,18 +491,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/krasimira.dukovska.kvartala.bg.ico",
     "slug": "coaching-zone",
     "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "93.74%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
+    "uptime": "99.69%",
+    "uptimeDay": "93.70%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 1293,
     "timeDay": 1289,
     "timeWeek": 1171,
     "timeMonth": 1293,
     "timeYear": 1293,
     "dailyMinutesDown": {
-      "2026-10-08": 90
+      "2026-10-08": 91
     }
   },
   {
@@ -512,7 +512,7 @@
     "slug": "coaching-zone-krasimira-dukovska",
     "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "93.87%",
+    "uptimeDay": "93.83%",
     "uptimeWeek": "99.12%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.70%",
@@ -522,7 +522,7 @@
     "timeMonth": 1187,
     "timeYear": 1187,
     "dailyMinutesDown": {
-      "2026-10-08": 88
+      "2026-10-08": 89
     }
   },
   {
@@ -532,7 +532,7 @@
     "slug": "vertical-design",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "94.21%",
+    "uptimeDay": "94.16%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.72%",
@@ -542,7 +542,7 @@
     "timeMonth": 814,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2026-10-08": 83
+      "2026-10-08": 84
     }
   },
   {
@@ -551,11 +551,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.arcadiabg.eu.ico",
     "slug": "arcadia",
     "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "94.55%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptime": "99.73%",
+    "uptimeDay": "94.50%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 691,
     "timeDay": 637,
     "timeWeek": 663,
@@ -572,8 +572,8 @@
     "slug": "dentist",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "94.89%",
-    "uptimeWeek": "99.27%",
+    "uptimeDay": "94.84%",
+    "uptimeWeek": "99.26%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
     "time": 440,
@@ -592,8 +592,8 @@
     "slug": "dgd",
     "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "95.23%",
-    "uptimeWeek": "99.32%",
+    "uptimeDay": "95.18%",
+    "uptimeWeek": "99.31%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
     "time": 390,
@@ -632,18 +632,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rezovo.net.ico",
     "slug": "rezovo",
     "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "95.35%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptime": "99.77%",
+    "uptimeDay": "95.31%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 825,
     "timeDay": 857,
     "timeWeek": 792,
     "timeMonth": 825,
     "timeYear": 825,
     "dailyMinutesDown": {
-      "2026-10-08": 67
+      "2026-10-08": 68
     }
   },
   {
@@ -652,18 +652,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/negociant.bg.ico",
     "slug": "negociant",
     "status": "down",
-    "uptime": "84.37%",
-    "uptimeDay": "84.37%",
-    "uptimeWeek": "84.37%",
-    "uptimeMonth": "84.37%",
-    "uptimeYear": "84.37%",
+    "uptime": "76.21%",
+    "uptimeDay": "76.21%",
+    "uptimeWeek": "76.21%",
+    "uptimeMonth": "76.21%",
+    "uptimeYear": "76.21%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-08": 1
+      "2026-10-08": 2
     }
   }
 ]
