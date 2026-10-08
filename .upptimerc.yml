@@ -46,6 +46,8 @@ sites:
     url: http://imambebe.com
   - name: rezovo
     url: http://rezovo.net/
+  - name: negociant
+    url: https://negociant.bg/
   
 
 assignees: # Users to assign downtime issues (optional)
