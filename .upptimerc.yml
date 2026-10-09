@@ -42,8 +42,6 @@ sites:
     url: http://dentist.gudasoft.com/
   - name: DGD
     url: http://dgd.gudasoft.com/    
-  - name: imambebe
-    url: http://imambebe.com
   - name: rezovo
     url: http://rezovo.net/
   - name: negociant
